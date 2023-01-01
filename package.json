@@ -33,7 +33,7 @@
     "@ionic/angular": "^5.0.0",
     "appcenter": "3.1.2",
     "appcenter-analytics": "3.1.2",
-    "appcenter-cli": "^2.7.3",
+    "appcenter-cli": "^2.12.0",
     "appcenter-crashes": "3.1.2",
     "bcryptjs": "^2.4.3",
     "cordova-ios": "6.1.1",
@@ -49,7 +49,7 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.24",
+    "@angular-devkit/build-angular": "^15.0.4",
     "@angular/cli": "~8.3.23",
     "@angular/compiler": "~8.2.14",
     "@angular/compiler-cli": "~8.2.14",
